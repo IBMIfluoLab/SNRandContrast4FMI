@@ -21,7 +21,7 @@ function [C_Mich_1, C_Mich_2away, C_Weber_1, C_Weber_2away] = contrastFormulas(s
 % dimitrios.gkorpas@helmholtz-munich.de).
 %
 % MIT License
-% Copyright (c) 2024 Dimitris Gorpas
+% Copyright (c) 2024 Elena Krukova and Dimitris Gorpas
 
 % Contrast vector initialization (all zeros)
 C_Mich_1 = zeros(9, 1);

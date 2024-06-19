@@ -17,7 +17,7 @@ function metricBars(module, depth, num, str, strUnits, metric_1, metric_2, metri
 % dimitrios.gkorpas@helmholtz-munich.de).
 %
 % MIT License
-% Copyright (c) 2024 Dimitris Gorpas
+% Copyright (c) 2024 Elena Krukova and Dimitris Gorpas
 
 % If there are 12 inputs then the bars are constructed for all SNR values
 if eq(nargin, 12)

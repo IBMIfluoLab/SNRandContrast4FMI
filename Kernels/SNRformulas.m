@@ -15,7 +15,7 @@ function [SNR_1, SNR_2_back_1, SNR_2_back_2away, SNR_3_back1, SNR_3_back2away, S
 % dimitrios.gkorpas@helmholtz-munich.de).
 %
 % MIT License
-% Copyright (c) 2024 Dimitris Gorpas
+% Copyright (c) 2024 Elena Krukova and Dimitris Gorpas
 
 % SNR vector initialization (all zeros)
 SNR_1 = zeros(9, 1);

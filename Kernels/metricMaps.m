@@ -24,7 +24,7 @@ function metric_1 = metricMaps(module, depth, metric, str, metricval1, metricval
 % dimitrios.gkorpas@helmholtz-munich.de).
 %
 % MIT License
-% Copyright (c) 2024 Dimitris Gorpas
+% Copyright (c) 2024 Elena Krukova and Dimitris Gorpas
 
 % If metricval2 is provided (i.e., 5 inputs) then the maps are constructed
 % for either background ROI surrounding or far away from the wells

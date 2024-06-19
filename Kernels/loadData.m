@@ -18,7 +18,7 @@ function [centers, radii, pars, center_roibackaway, radii_back, Radii, croppedIm
 % dimitrios.gkorpas@helmholtz-munich.de).
 %
 % MIT License
-% Copyright (c) 2024 Dimitris Gorpas
+% Copyright (c) 2024 Elena Krukova and Dimitris Gorpas
 
 % Load the centers of the wells
 lcenters = load(fullfile(folder_path, module, ['centers_' module '.mat']));

@@ -8,7 +8,7 @@ The dataset used in the paper is available in the folder "./Recorded data from t
 Created by the Fluorescence Imaging Group at the Institute of Biological and Medical Imaging of Helmholtz Munich (contact dimitrios.gkorpas@helmholtz-munich.de).
 
 MIT License
-Copyright (c) 2024 Dimitris Gorpas
+Copyright (c) 2024 Elena Krukova and Dimitris Gorpas
 
 Citation
 Please cite [1] if you use this code and/or any of the provided binary files.

@@ -14,7 +14,7 @@ function FMI_SNR_and_Contrast_Estimation
 % dimitrios.gkorpas@helmholtz-munich.de).
 %
 % MIT License
-% Copyright (c) 2024 Dimitris Gorpas
+% Copyright (c) 2024 Elena Krukova and Dimitris Gorpas
 
 % Add Kernels into path
 p = path;

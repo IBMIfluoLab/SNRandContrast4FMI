@@ -30,7 +30,7 @@ function [stats, statsback, statsbackaway] = regionStats(depth, module, croppedI
 % dimitrios.gkorpas@helmholtz-munich.de).
 %
 % MIT License
-% Copyright (c) 2024 Dimitris Gorpas
+% Copyright (c) 2024 Elena Krukova and Dimitris Gorpas
 
 stats = cell(1, length(depth));
 statsback = cell(1, length(depth));

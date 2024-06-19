@@ -15,7 +15,7 @@ function [SNR, Contrast] = metricStruct(SNR_1, SNR_2_back_1, SNR_2_back_2away,..
 % dimitrios.gkorpas@helmholtz-munich.de).
 %
 % MIT License
-% Copyright (c) 2024 Dimitris Gorpas
+% Copyright (c) 2024 Elena Krukova and Dimitris Gorpas
 
 % Group all SNR values for all formulas and all wells in one structure
 SNR = struct('depth', [],'f1', [], 'f2', [], 'f3', []);

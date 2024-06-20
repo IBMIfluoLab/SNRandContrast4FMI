@@ -29,7 +29,7 @@ SNR_4_back2away = zeros(9, 1);
 for i = 1:9 % For all 9 wells
 
     % SNR_1. SNR=n/σ=sqrt(n). n - number of photons on the detector; σ -
-    % the noise associated with the detector (i.e., standard deviation).
+    % the noise associated with the detector (i.e., square root of the mean signal).
     N = stats{1, i}.MeanIntensity;
     SNR_1(i) = sqrt(N);
 
